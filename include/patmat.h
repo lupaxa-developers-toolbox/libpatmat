@@ -1,7 +1,7 @@
 #ifndef PATMAT_H
 #define PATMAT_H
 
-#define PATMAT_VERSION_STRING "0.1.0-rc1"
+#define PATMAT_VERSION_STRING "0.1.0"
 
 /* PATMAT_OK is success, and *matched is then 1 or 0. PATMAT_INVAL means a
    text, pattern, or out-pointer was missing. PATMAT_BADPAT means the
